@@ -97,7 +97,6 @@
     async function updateVehicleLocation(stopExecution: boolean = false, currentCollection: number = 0) {
         // This holds the current vehicle data.
         const vehicles = await fetchVehicles();
-        console.log(vehicles)
 
         // Loop over every vehicle in the array...
         for (const vehicle of vehicles.entity) {
