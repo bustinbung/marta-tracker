@@ -27,3 +27,9 @@ The code for this project is documented to the best of my ability. The internet 
 ## Warning
 
 This project will not be maintained after December 8th, 2024. Any large-scale issues or bugs that arise will not be fixed.
+
+## Resources
+- [MARTA Developer Resources](https://www.itsmarta.com/app-developer-resources.aspx)
+- [GTFS Standard](https://developers.google.com/transit/site-map)
+- [Gavin Rehkemper's Protobuffers in Browser blog post](https://gavinr.com/protocol-buffers-protobuf-browser/)
+- [eeencode (SVG to base64)](https://www.fffuel.co/eeencode/)
