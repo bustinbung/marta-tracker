@@ -16,5 +16,3 @@ export const GET: RequestHandler = async () => {
 		readFeedMessage
 	);
 };
-
-export const prerender = true;
