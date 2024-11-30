@@ -21,6 +21,7 @@
     import { Collection, Feature } from 'ol';
     import { Point } from 'ol/geom';
     import { Circle, Fill, Icon, Stroke, Style } from 'ol/style';
+    // Imports the OL CSS file. Formats the map.
     import 'ol/ol.css';
 
     // Imports the date formatting functions from date-fns.
