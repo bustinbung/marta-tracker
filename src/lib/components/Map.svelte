@@ -242,8 +242,8 @@
  -->
 <style>
     #map {
-        width: 1000px;
-        height: 600px;
+        width: var(--map-width);
+        height: var(--map-height);
     }
 </style>
 

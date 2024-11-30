@@ -1,0 +1,16 @@
+@import url('$lib/styles/font-soleil.css');
+
+:root {
+    --map-width: 1000px;
+    --map-height: 600px;
+}
+
+body {
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Soleil;
+    color: white;
+}
