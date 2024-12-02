@@ -12,6 +12,20 @@ Start here, then move to src/routes/+page.svelte. I'll do my best to lead you fr
 
 You're on your own.
 
+## Run Locally
+Normal npm project procedure:
+```sh
+git clone https://github.com/bustinbung/marta-tracker.git # https
+git clone git@github.com:bustinbung/marta-tracker.git # ssh
+
+npm install
+
+npm run dev
+# or
+npm run build
+npm run preview
+```
+
 ## Technologies
 
 - [Svelte(Kit)](https://svelte.dev). UI and JS framework.
